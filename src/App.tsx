@@ -193,7 +193,7 @@ export default function App() {
                   
                   {/* GANTI URL GAMBAR DI BAWAH INI DENGAN FOTO ANDA */}
                   <img 
-                    src="https://i.ibb.co.com/DPBLYbn3/foto-lingga.png" 
+                    src="https://i.ibb.co.com/7dpF6R94/foto-lingga.png" 
                     alt="Lingga Putra Pratama Jaya Yudha" 
                     className="w-full h-full object-cover grayscale contrast-125 brightness-90 group-hover:grayscale-0 transition-all duration-500"
                     referrerPolicy="no-referrer"
